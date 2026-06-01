@@ -2,6 +2,8 @@
 
 A modern, responsive, and user-friendly bakery website designed for **True Bites**, a bakery located near DIT University, Dehradun. The website provides an engaging online presence with features such as product showcases, custom cake ordering, customer reviews, and contact information.
 
+🔗 **Live Website:** https://true-bites.vercel.app/
+
 ---
 
 ## 🌟 Features
